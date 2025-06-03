@@ -258,3 +258,9 @@ header img {
 #servicos .card:hover h3 {
     color: var(--verde-pixelV);
 }
+
+/*----------------Cases---------------*/
+
+#cases h2{
+    margin-right: 5px;
+}
